@@ -9,7 +9,6 @@ public class ThisKeyword5 {
 		this.Test2();
 	}
 	public void Test2() {
-		System.out.println(2);
+		System.out.println(2);  // 2
 	}
-
 }
