@@ -7,7 +7,7 @@ public class ThisKeyword {
 		tw.Test();
 	}
 	public void Test() {
-		System.out.println(This);   // error
+		System.out.println(this);   
 	}
 }
 // This keyword holds object address
